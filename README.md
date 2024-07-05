@@ -17,7 +17,7 @@ You can Install the APK file from [Github repo](https://github.com/SISACO/spay/r
 
 ## Main Features
 <details closed>
-  <summary>Media Downloader</summary>
+  <summary>What you can do</summary>
    
   - QR Code scan and Prank
   - Amount and Details Manual input Option
