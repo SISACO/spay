@@ -11,7 +11,7 @@ Built with Flutter framework. If you encounter any issues, we encourage you to r
 
 
 
-You can Install the APK file from [Github repo](https://github.com/SISACO/spay/releases) 
+You can Install the APK file from [Github releases](https://github.com/SISACO/spay/releases) 
 
 
 
