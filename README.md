@@ -4,7 +4,7 @@
 
   
 # Spay 1.0.0
-Spay is an Gpay Spoof App to prank.<br/><br/>
+Spay is a Gpay Spoof App to prank.<br/><br/>
 Built with Flutter framework. If you encounter any issues, we encourage you to report them. To do this simply visit our [issues](https://github.com/SISACO/spay/issues) page and create an issue, make sure to follow the guidelines.
 </div>
 
@@ -27,6 +27,10 @@ You can Install the APK file from [Github repo](https://github.com/SISACO/spay/r
 <details closed>
   <summary>User Interface</summary>
   
+
+https://github.com/SISACO/spay/assets/54985885/634462e4-e92f-4f0a-8aab-4b112326ee35
+
+
   - Exact Replica of Gpay Interface with payment animation 
   
 </details>  
